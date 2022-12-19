@@ -1,0 +1,5 @@
+/Users/pipiskop/Projects/pract6/pract6/obj/Debug/net6.0/pract6.csproj.AssemblyReference.cache
+/Users/pipiskop/Projects/pract6/pract6/obj/Debug/net6.0/pract6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pipiskop/Projects/pract6/pract6/obj/Debug/net6.0/pract6.AssemblyInfoInputs.cache
+/Users/pipiskop/Projects/pract6/pract6/obj/Debug/net6.0/pract6.AssemblyInfo.cs
+/Users/pipiskop/Projects/pract6/pract6/obj/Debug/net6.0/pract6.csproj.CoreCompileInputs.cache
